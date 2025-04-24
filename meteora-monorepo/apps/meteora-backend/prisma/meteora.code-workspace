@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../meteora-frontend"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../meteora-monorepo"
+		}
+	]
+}
